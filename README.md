@@ -1,2 +1,2 @@
 # MFG598-Final-Project
-This repository consists the files for the final project of MFG598.
+This repository consists the files for the final project of MFG598.Please unzip the respective files and make sure everything is in the same directory to run the code. Something similar to the screenshot added before. Remember that inside the visualization folder there are plot1.py and plot2.py files.  Inside environment folder there's the load_data.py file, similarly inside the algorithms, data and database folders there are astar.py, map1.csv and db_manager.py
